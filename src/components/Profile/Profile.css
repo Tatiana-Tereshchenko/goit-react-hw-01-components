@@ -8,7 +8,6 @@
     background-color:  rgb(246, 246, 238);
     border: solid 2px #514646;
     border-radius: 10px;
-   
 }
 .title {
     font-size: 24px;
@@ -16,8 +15,6 @@
     letter-spacing: 1.5;
     color: rgb(119, 109, 109);
     margin-top: 20px;
-    
-   
 }
 .profile-title {
     text-align: center;
@@ -37,7 +34,6 @@
     font-size: 55px;
     font-weight: 500;
     margin: 0;
-
 }
 .avatar-container{
     display: flex;
