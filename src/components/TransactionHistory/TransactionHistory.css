@@ -1,0 +1,32 @@
+.transaction-history {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+
+.transaction-history thead  tr {
+    display: flex;
+    gap: 160px;  
+    background-color: #ceb6b6;
+}
+
+
+.transaction-history tbody {
+    display: flex;
+    flex-direction: column;
+}
+
+.transaction-history tbody tr {
+    display: flex;
+}
+
+.transaction-history td {
+    flex: 1;
+    border: 2px solid rgb(95, 90, 90);
+    padding: 8px;
+}
+.transaction-title {
+    font-size: 24px;
+    border: 2px solid rgb(95, 90, 90);
+}
