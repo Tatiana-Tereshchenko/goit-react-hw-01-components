@@ -21,11 +21,12 @@ const TransactionHistory = ({ items }) => {
             <td>{transaction.amount}</td>
             <td>{transaction.currency}</td>
             </tr>
-        ))}
+        ))}       
         </tbody>
             </table>
             </div>
     );
 };
+
 
 export default TransactionHistory;
