@@ -1,4 +1,4 @@
-.container {
+.container_profile{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -53,10 +53,10 @@
     color: rgb(119, 109, 109);
 }
 .stats {
-   list-style: none;
-   display: flex;
-   padding: 5px;
-   gap: 50px;
+    list-style: none;
+    display: flex;
+    padding: 5px;
+    gap: 50px;
 
 }
 .profile-items {

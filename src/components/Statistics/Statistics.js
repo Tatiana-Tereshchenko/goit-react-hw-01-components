@@ -12,7 +12,7 @@ function generateRandomColor() {
 
 const Statistics = ({ title, stats  }) => {
     return (
-        <div className='container'>
+        <div className='container_stat'>
         <section className='statistics'>
             {title ? <h2 className='title'>{title}</h2> : null}
             <ul className='stat-list'> 

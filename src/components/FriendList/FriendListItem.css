@@ -1,0 +1,18 @@
+.item-friend {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.avatar-fr {
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    border: solid 2px #514646;
+    padding: 12px;
+    box-shadow: 0px 5px 5px rgba(69, 71, 65, 0.6);
+}
+.name-fr {
+    font-size: 24px;
+    font-weight: 500;
+}
