@@ -21,7 +21,7 @@
 .offline {
     background-color: red;
 }
-.fr-item {
+.fr_item {
     display: flex;
     list-style: none;
     justify-content: center;

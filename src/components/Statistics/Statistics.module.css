@@ -20,7 +20,7 @@
     box-shadow: 0px 5px 5px rgba(69, 71, 65, 0.6);
     padding: 15px;
 }
-.stat-list {
+.stat_list {
     display: flex;
     padding: 0px;
     text-align: center;
